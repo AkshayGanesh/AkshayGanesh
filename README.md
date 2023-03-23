@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @AkshayGanesh
-- 👀 I’m interested in Problem Solving, Scalable architecture, System design, Web3, NFT
-- 🌱 I’m currently learning all of the above :P
+- 👋 Hi, I’m @Akshay
+- 👀 Software Engineer with about 4 years of experience handling data pipelines, distributed ML model interfaces and
+scalable software development.
+- 🌱 Proficient in Python, Docker, PySpark, PyTorch, Kubernetes, Jenkins
+- 🦋 Experience in leading team of 5 people while being a key individual contributor and leading customer accounts.
 
 <!---
 AkshayGanesh/AkshayGanesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
