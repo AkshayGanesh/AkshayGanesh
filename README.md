@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshay
-- 👀 Software Engineer with more than 4 years of experience handling data pipelines, distributed ML model interfaces and
+- 👀 Software Engineer with 5+ years of experience handling data pipelines, distributed ML model interfaces and
 scalable software development.
 - 🌱 Proficient in Python, Docker, PySpark, PyTorch, Kubernetes, Jenkins
 - 🦋 Experience in leading small teams while being a key individual contributor and leading customer accounts.
